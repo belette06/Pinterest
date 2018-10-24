@@ -36,5 +36,5 @@ Dans la table comments, on a comme attributs
 - un index sur :pin
 
 Dans le model Comment, 
-- on a un utilisateur à qui appartient le commentaire
+- on a un utilisateur à qui appartient le commentaire belongs_to :user
 - on a un pin à qui appartient le commentaire belongs_to :pin
