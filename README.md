@@ -1,6 +1,6 @@
-# Pinterest
+<h1> Pinterest</h1>
 
-C. Avronsart & V. Richaud
+<h2>C. Avronsart🤩 & V. Richaud😎</h2>
 
 Nous voulons faire de la concurrence à Pinterest, donc nous crééons un site où les utilisateurs peuvent créer des "pins". Chaque pin contient une URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.
 
