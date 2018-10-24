@@ -13,6 +13,7 @@ Dans la table users, on a comme attributs
 - first_name, 
 - last_name,
 - email
+
 Dans le model User, on a plusieurs :pins et :comments
 
 X On fait une table pins et un model Pin
@@ -20,6 +21,7 @@ Dans la table pins, on a comme attributs
 - title
 - url
 - un index sur :user
+
 Dans le model Pin, 
 - on a plusieurs comments : has_many :comments
 - on a un utilisateur à qui appartient le pin : belongs_to :user 
@@ -29,6 +31,7 @@ Dans la table comments, on a comme attributs
 - content 
 - un index sur :user
 - un index sur :pin
+
 Dans le model Comment, 
 - on a un utilisateur à qui appartient le commentaire
 - on a un pin à qui appartient le commentaire
