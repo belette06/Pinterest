@@ -37,4 +37,4 @@ Dans la table comments, on a comme attributs
 
 Dans le model Comment, 
 - on a un utilisateur à qui appartient le commentaire
-- on a un pin à qui appartient le commentaire
+- on a un pin à qui appartient le commentaire belongs_to :pin
