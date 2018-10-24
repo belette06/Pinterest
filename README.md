@@ -27,6 +27,7 @@ Dans le model Pin,
 - on a un utilisateur à qui appartient le pin : belongs_to :user 
 
 X On fait une table comments et un model Comment
+
 Dans la table comments, on a comme attributs
 - content 
 - un index sur :user
