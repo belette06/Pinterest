@@ -9,6 +9,7 @@ Pour ce faire nous avons créé le modèle suivant:
 X On créé une base pinterest
 
 X On fait une table users et un model User
+
 Dans la table users, on a comme attributs 
 - first_name, 
 - last_name,
@@ -17,6 +18,7 @@ Dans la table users, on a comme attributs
 Dans le model User, on a plusieurs :pins et :comments
 
 X On fait une table pins et un model Pin
+
 Dans la table pins, on a comme attributs
 - title
 - url
